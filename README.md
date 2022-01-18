@@ -1,5 +1,5 @@
-# desafio-dio-git-github
+# Desafio git/github da Dio.
 Criação do primeiro repositório.
 
 ##Links úteis
-[Sintaxe basica do Markdown](https://www.markdownguide.org/basic-syntax/)
+<br>[Sintaxe basica do Markdown](https://www.markdownguide.org/basic-syntax/)
