@@ -1,2 +1,5 @@
 # desafio-dio-git-github
-Desafio para criação do primeiro repositório.
+Criação do primeiro repositório.
+
+##Links úteis
+[Sintaxe basica do Markdown](https://www.markdownguide.org/basic-syntax/)
